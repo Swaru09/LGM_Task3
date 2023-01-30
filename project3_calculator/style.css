@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0
+}
+body{
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.text{
+    color:white;
+    margin-left: 40%;
+    margin-top:7%;
+}
+
+.container{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+.button{
+    border-radius: 10px;
+    padding:20px;
+    padding-right:10%;
+    font-size:20px;
+    width:134px;
+    background-image:linear-gradient(rgb(179, 177, 177),white);
+    /* text-align: center; */
+}
+.buttons{
+    background-image: linear-gradient(white,rgb(186, 185, 185));
+    height:60px;
+    margin-bottom: 5px;
+    width:56%;
+    border:none;
+    border-radius: 10px;
+}
+.buttonss{
+    width:550px;
+}
+.equals{
+    width:270px;
+}
